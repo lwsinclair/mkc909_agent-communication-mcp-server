@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-mkc909-agent-communication-mcp-server-badge.png)](https://mseep.ai/app/mcp-mirror-mkc909-agent-communication-mcp-server)
+
 # Cross-System Agent Communication MCP Server
 
 ## Overview
